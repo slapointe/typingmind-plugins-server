@@ -1,4 +1,4 @@
-name: Docker-ACR
+name: Docker Image ACR
 
 on:
   push:
